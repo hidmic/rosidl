@@ -1,0 +1,12 @@
+#ifndef ROSIDL_TYPESUPPORT_INTROSPECTION_TESTS__INTROSPECTION_TRAITS_HPP_
+#define ROSIDL_TYPESUPPORT_INTROSPECTION_TESTS__INTROSPECTION_TRAITS_HPP_
+
+namespace rosidl_typesupport_introspection_tests {
+
+template <typename InterfaceT>
+struct introspection_traits;
+
+}  // namespace rosidl_typesupport_introspection_tests
+
+
+#endif // ROSIDL_TYPESUPPORT_INTROSPECTION_TESTS__INTROSPECTION_TRAITS_HPP_
